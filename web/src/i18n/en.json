@@ -1,0 +1,11 @@
+{
+  "inventory": "Inventory",
+  "container": "Container",
+  "hotbar": "Hotbar",
+  "craft": "Craft",
+  "drop": "Drop",
+  "use": "Use",
+  "split": "Split",
+  "assign": "Assign",
+  "search": "Search"
+}
